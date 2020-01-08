@@ -22,7 +22,4 @@ Alert boxes are achieved by using a block quote that has one of 'warn', 'danger'
 ## Join the Unofficial Discord API Server
 The Unofficial Discord API server is a common hangout for library and bot developers alike. It's a great starting point for those looking to dive in and learn bot-creation with the Discord API.
 
-[![](https://disweb.dashflo.net/channels/635209285302747136/660218087966244890)](https://discord.gg/Whj8cFD)
-
-## Testas
-<iframe src="https://canary.discordapp.com/widget?id=635209285302747136&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+[![](https://discordapp.com/api/guilds/635209285302747136/embed.png?style=banner1)](https://discord.gg/discord-api)
